@@ -11,5 +11,4 @@ issues, feel free to send a PR!
 - Python utilizes nextcord
 - Java utilizes Discord4J
 - C# utilizes DSharpPlus
-- C++ utilizes SleepyDiscord
-- Elixir - TBA
+- C++ utilizes D++ ([docs](https://dpp.dev/index.html))
